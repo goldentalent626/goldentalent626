@@ -10,8 +10,6 @@
   
   - 🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
 
-  - 👨‍💻 <a href="https://rarewolf626.github.io">View Portfolio</a>
-
   ## My Skills
 
   <p algin="right" width="320px">
