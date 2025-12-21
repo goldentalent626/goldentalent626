@@ -54,11 +54,4 @@
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="ubuntu" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="linux" style="max-width: 100%;">
   </p>
-
-  ## How to reach out me
-  ##<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  ##<a href="https://t.me/rarewolfdev"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
-  ##<a href="https://join.skype.com/invite/bofyiiFFrvcG"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
-  ##<a href="mailto:rarewolf626@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
-  ##<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br>
 </div>
