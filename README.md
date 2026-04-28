@@ -12,7 +12,7 @@
 
   ## My Skills
 
-  <p algin="right" width="320px">
+  <p algin="center">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" width="50" alt="css" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186607780-2ba1472e-07e5-4a98-9108-968ca3550229.svg" width="50" alt="bootstrap" style="max-width: 100%;">
