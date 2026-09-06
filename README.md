@@ -1,17 +1,4 @@
 <div theme="radical">
-  <h2 align="center">Hi 👋, I'm Rare Wolf</h2>
-  <h3 align="center">I am interested in Machine Learning and Full Stack Development</h3>
-
-* 🌱 I’m currently learning **TALL Stack**
-
-* 👯 I’m looking to collaborate on **Full Stack Projects**
-
-* 🧩 My favorite hobbies are programming 🤡, solving math problems and reading books.
-
-* 🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
-
-## My Skills
-
   <p align="center">
       <img height="45" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" alt="html">
       <img height="45" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" alt="css">
